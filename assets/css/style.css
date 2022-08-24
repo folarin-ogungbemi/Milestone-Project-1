@@ -194,18 +194,9 @@ footer{
   
 }
 
-.social-networks ul{
-    
-}
-
 .social-networks li{
     padding: 0.5rem;
 }
-
-.social-networks a{
-    font-size: var(--header2);
-}
-
 
 /* MEDIA QUERIES */
 
@@ -229,6 +220,17 @@ footer{
     /* NEWS HIGHLIGHT */
     .card{
         margin: 5rem;
+    }
+    /* CONTACT SECTION */
+    #contact{
+        flex-wrap: wrap;
+    }
+    .social-networks ul{
+        display: flex;
+    }
+
+    .social-networks li{
+        padding: 1rem;
     }
 
 }
