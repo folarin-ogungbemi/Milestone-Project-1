@@ -130,7 +130,7 @@ header{
 }
 
 .card{
-    border: 1px solid red;
+    border: 1px solid rgb(240, 44, 44);
     background-color: rgb(2, 32, 54, 0.9);
     border-radius: 10px;
     min-height: 40vh;
@@ -142,6 +142,25 @@ header{
     text-align: center;
     justify-content: center;
     padding: 1rem;
+}
+
+/* ABOUT SECTION */
+
+#about >h2{
+    background-color: rgb(2, 32, 54, 0.9);
+    text-align: center;
+    padding: 2rem;
+}
+
+#about >p{
+    text-align: center;
+    justify-content: center;
+    padding: 4rem;
+    font-weight: 600;
+}
+
+#about strong{
+    color: rgb(240, 44, 44);
 }
 
 /* MEDIA QUERIES */
