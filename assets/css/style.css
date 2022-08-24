@@ -163,6 +163,31 @@ header{
     color: rgb(240, 44, 44);
 }
 
+
+/* CONTACT SECTION */
+
+footer{
+    background-color: #022138;
+    min-height: 15vh;
+    width: 100%;
+}
+
+#contact{
+    display: flex;
+    justify-content: space-between;
+}
+
+#contact>h3{
+    color: #fffaf6;
+    text-transform: uppercase;
+    margin: auto 0;
+}
+
+.contact-remote, .location, .opening{
+    color: #fffaf6;
+}
+
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width:700px){
