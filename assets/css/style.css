@@ -209,6 +209,10 @@ footer{
         font-size: 50%;
     }
 
+    body{
+        font-size: 2.5rem;
+    }
+
     #nav-bar{
         flex-wrap: wrap;
         text-align: center;
