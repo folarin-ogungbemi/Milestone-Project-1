@@ -34,9 +34,12 @@ h3{
 a{
     font-size: var(--text2);
     text-decoration: none;
-    color: #fffaf6;
     letter-spacing: 0.2rem;
     font-weight: 800;
+}
+
+a:hover{
+    color: #fffaf6;
 }
 
 li{
@@ -52,6 +55,7 @@ body{
 h1, h2, a{
     color: rgb(240, 44, 44);
 }
+
 /* HEADER SECTION */
 
 header{
