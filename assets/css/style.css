@@ -24,6 +24,7 @@ h2{
 a{
     font-size: var(--text2);
     text-decoration: none;
+    color: #fffaf6;
 }
 
 li{
@@ -31,4 +32,9 @@ li{
 }
 body{
     font-size: var(--text1);
+    background-color: #fffaf6;
+}
+
+header{
+    background-color: #022138;
 }
