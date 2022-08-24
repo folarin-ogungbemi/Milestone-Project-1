@@ -1,4 +1,27 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0; 
+}
+
+html{
+    font-size: 62.5%;
+    --header1: calc(3.2rem + 1vw);
+    --header2: calc(2.5rem + 1vw);
+    --text1: calc(1rem + 1vw);
+    --text2: calc(1.2rem + 1vw);
+}
+
+h1{
+    font-size: var(--header1);
+}
+
+h2{
+    font-size: var(--header2);
+}
+a{
+    font-size: var(--text2);
+}
 body{
-    color: red;
-    background-color: #bada55;
+    font-size: var(--text1);
 }
