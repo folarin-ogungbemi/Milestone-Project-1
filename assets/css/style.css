@@ -207,4 +207,10 @@ footer{
         flex-wrap: wrap;
         flex-direction: column-reverse;
     }
+
+    /* NEWS HIGHLIGHT */
+    .card{
+        margin: 5rem;
+    }
+
 }
