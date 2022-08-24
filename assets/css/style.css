@@ -65,8 +65,33 @@ header{
     margin: auto;
 }
 
+/* HERO SECTION */
+#hero{
+    min-height: 60vh;
+}
+.hero-body{
+    display: flex;
+}
+
+.hero-img{
+    flex: 1 1 40rem;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.hero-text{
+    flex: 1 1 40rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+
 @media screen and (max-width:700px){
     html{
         font-size: 45%;
     }
+
 }
