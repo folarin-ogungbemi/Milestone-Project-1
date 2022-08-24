@@ -54,8 +54,10 @@ h1, h2, a{
 /* HEADER SECTION */
 
 header{
-    background-color: #022138;
+    background-color: rgb(2, 32, 54, 0.9);
     min-height: 5rem;
+    position: fixed;
+    width: 100%;
 }
 
 #nav-bar{
@@ -105,6 +107,9 @@ header{
 .hero-text :is(h3, p){
     padding: 1rem;
 }
+
+
+/* MEDIA QUERIES */
 
 @media screen and (max-width:700px){
     html{
