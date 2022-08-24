@@ -29,12 +29,35 @@ a{
 
 li{
     list-style: none;
+    text-transform: capitalize;
 }
 body{
     font-size: var(--text1);
     background-color: #fffaf6;
 }
+/* HEADER SECTION */
 
 header{
     background-color: #022138;
+    min-height: 10vh;
 }
+
+#nav-bar{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    padding: 2rem;
+}
+
+
+#nav-bar>a{
+    flex: 1 1 40rem;
+}
+
+#nav-bar ul{
+    display: flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    margin: auto;
+}
+
