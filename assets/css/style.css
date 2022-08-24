@@ -6,18 +6,20 @@
 
 html{
     font-size: 62.5%;
-    --header1: calc(3.2rem + 1vw);
-    --header2: calc(2.5rem + 1vw);
+    --header1: calc(2.8rem + 1vw);
+    --header2: calc(2.3rem + 1vw);
     --text1: calc(1rem + 1vw);
     --text2: calc(1.2rem + 1vw);
 }
 
 h1{
     font-size: var(--header1);
+    text-transform: uppercase;
 }
 
 h2{
     font-size: var(--header2);
+    text-transform: uppercase;
 }
 a{
     font-size: var(--text2);
