@@ -175,7 +175,8 @@ footer{
 
 #contact{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
 }
 
 #contact>h3{
@@ -186,6 +187,23 @@ footer{
 
 .contact-remote, .location, .opening{
     color: #fffaf6;
+}
+
+.social-networks{
+    margin: 3rem 0;
+  
+}
+
+.social-networks ul{
+    
+}
+
+.social-networks li{
+    padding: 0.5rem;
+}
+
+.social-networks a{
+    font-size: var(--header2);
 }
 
 
