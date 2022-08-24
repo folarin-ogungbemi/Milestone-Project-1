@@ -35,11 +35,15 @@ body{
     font-size: var(--text1);
     background-color: #fffaf6;
 }
+
+h1, h2, a{
+    color: rgb(240, 44, 44);
+}
 /* HEADER SECTION */
 
 header{
     background-color: #022138;
-    min-height: 10vh;
+    min-height: 5rem;
 }
 
 #nav-bar{
@@ -61,3 +65,8 @@ header{
     margin: auto;
 }
 
+@media screen and (max-width:700px){
+    html{
+        font-size: 45%;
+    }
+}
