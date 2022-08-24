@@ -205,7 +205,6 @@ footer{
 /* SIGN UP PAGE */
 
 #form-section{
-    min-height: 80vh;
     width: 100%;
     background-image: linear-gradient(rgba(240, 44, 44, 0.7), transparent), url(../images/listen-up.jpg);
     background-repeat: no-repeat;
