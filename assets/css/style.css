@@ -222,7 +222,18 @@ footer{
     margin: 20rem auto;
 }
 
-
+.container1{
+    display: flex;
+    padding: 5rem;
+    gap: 2rem;
+    
+}
+.left{
+    margin: 1rem;
+}
+.right{
+    margin: 1rem;
+}
 
 /* MEDIA QUERIES */
 
