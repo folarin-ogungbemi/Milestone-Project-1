@@ -50,6 +50,8 @@ body{
     font-size: var(--text1);
     background-color: #fffaf6;
     font-family: 'Lato', sans-serif;
+    width: 100%;
+    max-width: 100vw;
 }
 
 h1, h2, a{
@@ -62,7 +64,8 @@ header{
     background-color: rgb(2, 32, 54, 0.9);
     min-height: 5rem;
     position: fixed;
-    width: 100%;
+    width: inherit;
+    max-width: inherit;
 }
 
 #nav-bar{
