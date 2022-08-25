@@ -205,6 +205,7 @@ footer{
 /* SIGN UP PAGE */
 
 #form-section{
+    font-size: var(--text1);
     min-height: 80vh;
     width: 100%;
     background-image: linear-gradient(rgba(240, 44, 44, 0.5), transparent), url(../images/listen-up.jpg);
@@ -225,7 +226,7 @@ footer{
 
 .container{
     display: flex;
-    padding: 5rem;
+    padding: 2rem;
     gap: 2rem;   
 }
 
@@ -241,9 +242,16 @@ footer{
 }
 
 input[type="submit"]{
-    padding: 1rem 8rem;
+    padding: 1rem 7rem;
     margin: 5rem;
+    font-size: 1.5rem;
 }
+
+input[type="text"], input[type="password"], input[type="email"], input[type="number"]{
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
 
 form{
     display: flex;
