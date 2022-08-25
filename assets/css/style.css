@@ -235,13 +235,6 @@ footer{
     gap: 2rem;   
 }
 
-.left{
-    margin: 1rem;
-}
-.right{
-    margin: 1rem;
-}
-
 .gender{
     display: flex;
 }
