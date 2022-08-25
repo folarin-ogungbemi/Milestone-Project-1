@@ -30,57 +30,24 @@
 
     <!--FORM SECTION-->
 
-    <section id="form-section">
+    <section>
         <div class="form-data">
-            <h2>Register</h2>
-            <form action="" method="post">
-                <div class="container">
-                    <div class="left">
-                        <div class="fname">
-                            <label for="fname">Fullname:</label>
-                            <input id="fname" type="text" name="fullname" placeholder="Fullname" required>
-                        </div>
-                        <div class="email">
-                            <label for="email">Email:</label>
-                            <input id="email" type="email" name="email" placeholder="john@email.com">
-                        </div>
-                        <div class="password">
-                            <label for="password">Password:</label>
-                            <input id="password" type="password" name="password" placeholder="Password" required>
-                        </div>
+            <h2>Register for our <br> Newsletter</h2>
+            <form action="https://formdump.codeinstitute.net/" method="post">
+                <div class="main-form">
+                    <div class="name">
+                        <label for="fname">first name:</label>
+                        <input id="fname" type="text" name="fname" required>
+                        <label for="lname">last name:</label>
+                        <input id="lname" type="text" name="lname" required>
                     </div>
-
-                    <div class="right">
-                        <div class="user">
-                            <label for="username">Username:</label>
-                            <input id="username" type="text" name="username" placeholder="Username" required>
-                        </div>
-                        <div class="email">
-                            <label for="phone">Phone number:</label>
-                            <input id="phone" type="number" name="phone" placeholder="Phone number">
-                        </div>
-                        <div class="password">
-                            <label for="password">Confirm Password:</label>
-                            <input id="password" type="password" name="password" placeholder="Confirm password"
-                                required>
-                        </div>
-                    </div>
+                    <label for="phone">Phone number:</label>
+                    <input id="phone" type="number" name="phone" required>
+                    <label for="email">Email:</label>
+                    <input id="email" type="email" name="email" required>
+                    <label>How would you like us to be of service to you ?</label>
+                    <textarea name="comments" cols="50" rows="10">Enter your comments ...</textarea>
                 </div>
-                <div class="gender">
-                    <div class="male">
-                        <label for="male">Male</label>
-                        <input id="male" type="radio" name="male">
-                    </div>
-                    <div class="female">
-                        <label for="female">Female</label>
-                        <input id="female" type="radio" name="female">
-                    </div>
-                    <div class="none">
-                        <label for="none">Prefer not to say</label>
-                        <input id="none" type="radio" name="none">
-                    </div>
-                </div>
-                <input type="submit" value="Register">
             </form>
         </div>
     </section>
