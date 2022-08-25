@@ -235,6 +235,10 @@ footer{
     margin: 1rem;
 }
 
+.gender{
+    display: flex;
+    justify-content: space-around;
+}
 
 
 /* MEDIA QUERIES */
