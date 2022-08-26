@@ -239,6 +239,14 @@ form{
     margin: 1rem 0;
 }
 
+#fname, #lname, #phone, #email{
+    margin: 1rem 0;
+}
+
+:is(#fname, #lname, #phone, #email) ~ label{
+    text-transform: capitalize;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width:900px){
