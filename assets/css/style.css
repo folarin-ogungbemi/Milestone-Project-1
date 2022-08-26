@@ -206,7 +206,12 @@ footer{
 
 /* SIGN UP PAGE */
 
-
+#form{
+    background-image: linear-gradient(rgb(240, 44, 44, 0.7), transparent), url(../images/pexels-andrea-piacquadio-3761519.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 /* MEDIA QUERIES */
 
