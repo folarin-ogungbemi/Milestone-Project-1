@@ -243,10 +243,12 @@ form{
     margin: 1rem 0;
 }
 
-:is(#fname, #lname, #phone, #email) ~ label{
-    text-transform: capitalize;
+.frequency{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0;
 }
-
 /* MEDIA QUERIES */
 
 @media screen and (max-width:900px){
