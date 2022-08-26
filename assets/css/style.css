@@ -311,16 +311,12 @@ input[type="submit"]:hover{
     padding: 0 2rem;
 }
 
-#sports{
+#sports, #entertainment{
     min-height: 100vh;
 }
 
 .sports-head{
     background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-pixabay-248547.jpg);
-}
-
-#entertainment{
-    min-height: 100vh;
 }
 
 .entertainment-head{
