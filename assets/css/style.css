@@ -284,14 +284,20 @@ input[type="submit"]:hover{
     justify-content: center;
 }
 
-
-
 .education-head{
     background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-mentatdgt-1319855.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: top;
 }
+
+.education-head h2{
+    font-family: 'Oswald', sans-serif;
+    color: #022138;
+    font-size: var(--header1);
+    letter-spacing: 1rem;
+}
+
 
 
 
