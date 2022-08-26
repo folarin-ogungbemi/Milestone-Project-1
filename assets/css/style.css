@@ -291,6 +291,14 @@ form{
         flex-direction: column-reverse;
     }
 
+    .hero-img, .hero-text{
+        width: 100vw;
+    }
+
+    .hero-text{
+        padding: 10rem 0;
+    }
+
     /* NEWS HIGHLIGHT */
     .card{
         margin: 5rem;
