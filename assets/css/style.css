@@ -267,6 +267,34 @@ input[type="submit"]{
 input[type="submit"]:hover{
     background-color: #022138;
 }
+
+/* NEWS */
+
+#education{
+    min-height: 100vh;
+    padding-top: 10rem;
+}
+
+#news header{
+    width: 100vw;
+    min-height: 30%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.education-head{
+    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-mentatdgt-1319855.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: top;
+}
+
+
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width:900px){
