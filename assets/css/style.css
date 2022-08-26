@@ -206,67 +206,7 @@ footer{
 
 /* SIGN UP PAGE */
 
-#form-section{
-    font-size: 1.9rem;
-    font-weight: 600;
-    min-height: 80vh;
-    width: 100%;
-    background-image: linear-gradient(rgba(240, 44, 44, 0.5), transparent), url(../images/pexels-andrea-piacquadio-3761519.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 
-.form-data{
-    height: 70vh;
-    width: 30%;
-    margin: 20rem auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.form-data h2{
-    font-size: var(--header1);
-    font-family: 'Oswald', sans-serif;
-    color: #022138;
-}
-
-.container{
-    display: flex;
-    padding: 2rem;
-    margin: 3rem;
-    gap: 5rem;   
-}
-
-.gender{
-    display: flex;
-}
-
-input[type="submit"]{
-    padding: 1rem 7rem;
-    margin: 5rem;
-    font-size: 1.5rem;
-}
-
-input[type="text"], input[type="password"], input[type="email"], input[type="number"]{
-    padding: 1rem;
-    font-size: 1.5rem;
-}
-
-.male, .female, .none{
-    padding: 1rem;
-}
-
-form{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 
 /* MEDIA QUERIES */
 
