@@ -275,20 +275,17 @@ input[type="submit"]:hover{
     padding-top: 10rem;
 }
 
-#news header{
-    width: 100vw;
-    min-height: 30%;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    justify-content: center;
-}
-
 .education-head{
     background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-mentatdgt-1319855.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: top;
+    width: 100vw;
+    min-height: 30vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
 }
 
 .education-head h2{
@@ -309,6 +306,23 @@ input[type="submit"]:hover{
     display: flex;
     gap: 2rem;
     padding: 0 2rem;
+}
+
+#sports{
+    min-height: 100vh;
+}
+
+.sports-head{
+    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-pixabay-248547.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: top;
+    width: 100vw;
+    min-height: 30vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
 }
 
 
