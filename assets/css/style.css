@@ -287,6 +287,13 @@ input[type="submit"]:hover{
     justify-content: center;
 }
 
+.n-body{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+}
+
 .n-head h2{
     font-family: 'Oswald', sans-serif;
     color: #022138;
@@ -296,13 +303,6 @@ input[type="submit"]:hover{
 
 .education-head{
     background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-mentatdgt-1319855.jpg); 
-}
-
-.education-body{
-    padding-top: 20rem;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
 }
 
 .body{
