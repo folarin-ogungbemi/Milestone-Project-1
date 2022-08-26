@@ -207,7 +207,7 @@ footer{
 /* SIGN UP PAGE */
 
 #form{
-    min-height: 100vh;
+    min-height: 150vh;
     background-image: linear-gradient(rgb(240, 44, 44, 0.7), transparent), url(../images/pexels-andrea-piacquadio-3761519.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -225,7 +225,8 @@ footer{
     align-items: center;
     justify-content: center;
     width: 40%;
-    border: 1px solid green;
+    background-color: rgb(2, 33, 56, 0.2);
+    color: #022138;
 }
 
 .form-data h2{
