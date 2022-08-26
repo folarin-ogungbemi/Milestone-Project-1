@@ -228,6 +228,12 @@ footer{
     border: 1px solid green;
 }
 
+.form-data h2{
+    font-family: 'Oswald', sans-serif;
+    color: #022138;
+    text-align: center;
+}
+
 form{
     display: flex;
     flex-direction: column;
