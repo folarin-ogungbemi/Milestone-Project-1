@@ -222,6 +222,7 @@ hr{
     width: 50rem;
     background-color: rgb(2, 33, 56, 0.2);
     margin: 5rem 0;
+    padding: 1rem;
     color: #022138;
 }
 
@@ -373,5 +374,15 @@ input[type="submit"]:hover{
     }
     .contact-address, .location, .contact-remote, .social-networks{
         padding: 1rem 0;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .form-data{
+        width:35rem ;
+    }
+
+    .main-form{
+        width: 28rem;
     }
 }
