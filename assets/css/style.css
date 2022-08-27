@@ -191,6 +191,10 @@ footer{
     margin: auto 0;
 }
 
+hr{
+    border: 1px solid #fffaf6;
+}
+
 .contact-remote, .location, .opening{
     color: #fffaf6;
 }
