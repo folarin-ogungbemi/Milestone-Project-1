@@ -27,8 +27,8 @@ h2{
     text-transform: uppercase;
 }
 h3{
-    font-size: var(--header1);
-    font-family: 'Oswald', sans-serif;
+    font-size: var(--header2);
+    font-family: 'Lato', sans-serif;
     text-transform: capitalize;
 }
 
@@ -183,7 +183,6 @@ footer{
 #contact{
     display: flex;
     justify-content: space-around;
-    align-items: center;
 }
 
 #contact>h3{
@@ -194,15 +193,6 @@ footer{
 
 .contact-remote, .location, .opening{
     color: #fffaf6;
-}
-
-.social-networks{
-    margin: 3rem 0;
-  
-}
-
-.social-networks li{
-    padding: 0.5rem;
 }
 
 /* SIGN UP PAGE */
