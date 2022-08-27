@@ -48,7 +48,7 @@ li{
     text-transform: capitalize;
 }
 body{
-    font-size: var(--text1);
+    font-size: calc(var(--text1)*1.2);
     background-color: #fffaf6;
     font-family: 'Lato', sans-serif;
     width: 100%;
@@ -323,6 +323,10 @@ input[type="submit"]:hover{
 /* MEDIA QUERIES */
 
 @media screen and (max-width:900px){
+
+    body{
+        font-size: calc(var(--text1)*1.5);
+    }
 
     #nav-bar{
         flex-wrap: wrap;
