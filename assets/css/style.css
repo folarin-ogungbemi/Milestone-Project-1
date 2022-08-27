@@ -63,8 +63,10 @@ h1, h2, a{
 
 header{
     background-color: rgb(2, 32, 54, 0.9);
-    min-height: 5rem;
-    height: 10rem;
+    min-height: 10rem;
+    height: 12rem;
+    display: flex;
+    justify-content: center;
     position: fixed;
     width: inherit;
     max-width: inherit;
@@ -327,7 +329,7 @@ input[type="submit"]:hover{
 
 /* MEDIA QUERIES */
 
-@media screen and (max-width:900px){
+@media screen and (max-width:950px){
 
     body{
         font-size: calc(var(--text1)*1.5);
@@ -336,6 +338,14 @@ input[type="submit"]:hover{
     #nav-bar{
         flex-wrap: wrap;
         text-align: center;
+    }
+
+    #nav-bar>a{
+        flex: 1 1 20rem;
+    }
+    
+    #nav-bar ul{
+        flex-grow: 2 1 60rem;
     }
 
     /* HERO SECTION */
@@ -382,6 +392,14 @@ input[type="submit"]:hover{
 }
 
 @media screen and (max-width: 510px) {
+    #nav-bar{
+        display: flex;
+        justify-content: center;
+    }
+    #nav-bar a{
+        font-size: calc(var(--text2)*1.1);
+        padding: 0 0.3rem;
+    }
     .form-data{
         width:35rem ;
     }
