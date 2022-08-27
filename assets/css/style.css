@@ -189,6 +189,7 @@ footer{
 #contact{
     display: flex;
     justify-content: space-around;
+    padding: 1rem;
 }
 
 #contact>h3{
@@ -203,6 +204,10 @@ hr{
 
 .contact-remote, .location, .opening{
     color: #fffaf6;
+}
+
+:is(.contact-remote, .location, .opening) h4{
+    border-bottom:1px solid #fffaf6;
 }
 
 /* SIGN UP PAGE */
