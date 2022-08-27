@@ -115,6 +115,10 @@ header{
     font-size: var(--header2);
     font-weight: 600;
 }
+.hero-text>h3{
+    font-family: 'Oswald', sans-serif;
+    color: #022138;
+}
 
 /* NEWS HIGHLIGHT */
 
