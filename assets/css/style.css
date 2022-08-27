@@ -278,7 +278,7 @@ input[type="submit"]:hover{
 .n-head{
     background-repeat: no-repeat;
     background-position: center;
-    background-size: top;
+    background-size: cover;
     width: 100vw;
     min-height: 30vh;
     display: flex;
@@ -302,7 +302,7 @@ input[type="submit"]:hover{
 }
 
 .education-head{
-    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-mentatdgt-1319855.jpg); 
+    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/education\(compressed\).jpg); 
 }
 
 .body{
@@ -316,11 +316,11 @@ input[type="submit"]:hover{
 }
 
 .sports-head{
-    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-pixabay-248547.jpg);
+    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/sports\(compressed\).jpg);
 }
 
 .entertainment-head{
-    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/pexels-stage.jpeg);
+    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/stage\(compressed\).jpeg);
 }
 
 
