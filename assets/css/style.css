@@ -354,7 +354,7 @@ input[type="submit"]:hover{
     }
     
     #nav-bar ul{
-        flex-grow: 2 1 60rem;
+        flex: 2 1 60rem;
     }
 
     /* HERO SECTION */
