@@ -137,5 +137,56 @@ The following features were not implemented as at the time of creation of this w
 * [W3 HTML Checker](https://validator.w3.org/nu/#textarea "Link to W3 HTML main-page")
     * HTML validator used to validate the website's HTML in comparison to standard HTML writing.
 
+---
+
+# Deployment
+
+## Project Creation
+
+To start this project, It is recommended to use the [template](https://github.com/Code-Institute-Org/gitpod-full-template "Link to Code Institute template") already created by Code Institute. By using this template, necessary plugins for your project are downloaded for you. After clicking this link, the following steps are to be followed.
+1. Navigate to "Use this template" on the page.
+    * ![Use this template](assets/images/Use%20this%20template%20(Code%20Institute).png)
+    * click on the button
+1. Navigate to "repostory name"
+    * Enter a name for your repository to continue (e.g Milestone project-1)
+    * You may enter a description for the project. (Not mandatory)
+    * keep your repository checked "public" for assessment purposes.
+    * Then click on the button "Create repository from template".
+    * ![Create repository for your project](assets/images/Repository%20creation.png)
+1. Are your registered with gitpod by now?
+    1. If No ? 
+        * Visit the [Gitpod](https://www.gitpod.io "Click to visit gitpod") webiste and Login your details.
+        * there after navigate back to Github and continue the steps after login.
+    1. If yes ?
+        * Navigate to the green button ["Clipboard"](https://github.com/folarin-ogungbemi/Milestone-project1 "click on this link to view clipboard") and click on it.
+        * The creation of an environment might take a while. wait for gitpod to set up your environment.
+1. Now we should have the [IDE](https://folarinogun-milestonepr-kf64x2mo04v.ws-eu63.gitpod.io/ "click to view interface") created.
+    1. Here we have Visual Studio code as IDE.
+        * By defaulft, on the left side-bar is the respository we created in github (Milestone-project1) including an already made README.md file.
+            * A mouse right click in this panel area gives us option to create new files and or folders in this repository.
+            * On the right-side window next to the left side-bar, we can write our HTML, and CSS code.
+            * Finally, the bash terminal for interacting with github is located right below this window.
+        * To have files created in this IDE, the following commands are to be enetered.
+            * To check the status of your repository if any changes have been made.
+                 ``` bash
+                    git status
+            *  To stage changes made 
+                ``` bash
+                    git add . 
+            * To commit changes made 
+                ```bash
+                    git commit -m "commit message inbetween this quotes"
+            * To push changes made to github
+                ```bash
+                    git push
+            * View files that have been uploaded to github
+                ```bash
+                    git ls-files
+                ```
+
+
+
+
+
 
 
