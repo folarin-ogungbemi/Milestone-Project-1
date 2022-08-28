@@ -168,7 +168,7 @@ To start this project, It is recommended to use the [template](https://github.co
         * The creation of an environment might take a while. wait for gitpod to set up your environment.
 1. Now we should have the [IDE](https://folarinogun-milestonepr-kf64x2mo04v.ws-eu63.gitpod.io/ "click to view interface") created.
     1. Here we have Visual Studio code as IDE.
-        * By defaulft, on the left side-bar is the respository we created in github (Milestone-project1) including an already made README.md file.
+        * By default, on the left side-bar is the respository we created in github (Milestone-project1) including an already made README.md file.
             * A mouse right click in this panel area gives us option to create new files and or folders in this repository.
             * On the right-side window next to the left side-bar, we can write our HTML, and CSS code.
             * Finally, the bash terminal for interacting with github is located right below this window.
