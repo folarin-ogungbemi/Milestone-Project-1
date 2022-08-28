@@ -88,6 +88,22 @@ The text types of the website will be as follows.
 
 ## Limitations
 
-The website functionality does not include any imperative programming languages such as Javascript. Consequently, the registration form used in this website will not store any data.
+* The website functionality does not include any imperative programming languages such as Javascript. Consequently, the registration form used in this website will not store any data.
+* The responsiveness of the website to screens is pegged at a minimum range of 320px.  
+
+---
+
+# Features
+
+## Existing Features
+
+* Registration form : Embedded in the website is a form to be filled by users who wants to receive newsletters pertaining to the goals of the organization. 
+
+## Feeatures to be implemented
+
+The following features were not implemented as at the time of creation of this website due to limitations in technological skills :
+
+*  For easier search and navigation through the website, the website can include a search bar.
+
 
 
