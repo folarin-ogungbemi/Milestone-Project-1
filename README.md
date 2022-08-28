@@ -21,3 +21,8 @@ Gosip, coined from the word *gossip*, is a blog post intended to provide trendin
     * As a first time user, I want to have the comfort of reading the news on small screen devices as well as on larger screens as need arises.
     * As a first time user, navigation through aspects of the website should be easy and lead to exactly where i need to go.
     * As a first time user, keeping up to date via social media platforms and necessary links is vital.
+
+* Frequent User goals
+    * As a frequent user, I want to be able to reach out to the organization via their current contact addresses.
+    * As a frequent user, I want to be able to sign up for news letters in other to keep up to date with news and the Organization.
+    * As a frequent user, i want to have the freedom to change my subscription mode at will.
