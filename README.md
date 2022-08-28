@@ -10,7 +10,11 @@ This website was created for the purpose of completing my first milestone projec
 
 ## Preview
 
+![Website Mock-up](assets/images/GOSIP%20Mock-up.png "A pictographic display of the website on different devices")
+
 Gosip, coined from the word *gossip*, is a blog post intended to provide trending news from various sectors of the World. As at the time of creation, GOSIP reported news only pertaining to Sports, Music and Entertainment, and Education. However, the project is expected to extend beyond these topics and touch other interesting news around the world. During the creation of the website, user's guide was taken into consideration. Hence, the website is responsive to ranges of screens of devices and pegged at a device with 320px screen size (i.e iphone 5).
+
+---
 
 # User Experience Design
 
@@ -26,3 +30,6 @@ Gosip, coined from the word *gossip*, is a blog post intended to provide trendin
     * As a frequent user, I want to be able to reach out to the organization via their current contact addresses.
     * As a frequent user, I want to be able to sign up for news letters in other to keep up to date with news and the Organization.
     * As a frequent user, i want to have the freedom to change my subscription mode at will.
+
+## Structure
+
