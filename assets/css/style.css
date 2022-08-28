@@ -161,6 +161,30 @@ header{
 
 /* ABOUT SECTION */
 
+.about-wrap{
+    min-height: 50vh;
+    display: flex;
+    width: 95%;
+    margin: auto;
+    padding: 2rem;
+    gap:2rem;
+    flex-wrap: wrap;
+}
+
+.about-wrap h3{
+    padding-bottom: 1rem;
+}
+
+.creators{
+    width: 100%;
+    flex: 1 1 40rem;
+}
+
+.text{
+    width: 100%;
+    flex: 2 1 60rem;
+}
+
 #about >h2{
     background-color: rgb(2, 32, 54, 0.9);
     text-align: center;
