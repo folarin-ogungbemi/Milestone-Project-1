@@ -219,7 +219,7 @@ hr{
 
 #form{
     min-height: 150vh;
-    background-image: linear-gradient(rgb(240, 44, 44, 0.7), transparent), url(../images/listen\(compressed\).jpg);
+    background-image: url(../images/listen\(compressed\).jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
