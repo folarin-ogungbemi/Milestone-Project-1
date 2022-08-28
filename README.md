@@ -183,7 +183,17 @@ To start this project, It is recommended to use the [template](https://github.co
                 ```bash
                     git ls-files
                 ```
+---
 
+# Credits
+
+## Code
+    
+## Content
+
+## Media
+
+## Acknowledgement 
 
 
 
