@@ -63,5 +63,31 @@ Gosip, coined from the word *gossip*, is a blog post intended to provide trendin
 
  * [x] The website will inform the user of the use of their data informations. This information will be readable before signing up for newsletters.
 
+## Design
+
+### Colour Scheme
+
+The website will overall use three major colors as they are significant to the values of the organization. These colours will be used in a way that they complement eachother seamlessly.
+
+* #022138 : A dark-blue colour
+* #fffaf6 : A light cream colour
+* #f02c2c : A redish colour
+
+### Typography
+
+The text types of the website will be as follows.
+
+* Oswald : For Headers.
+* Lato : For normal text contents.
+* Crimson pro : For the news articles.
+
+### Imagery
+
+* The beautifying images used for the website depicts the purpose and goals of the website.
+* Illustrative pictures or videos that may be used adds information to the news articles.
+
+## Limitations
+
+The website functionality does not include any imperative programming languages such as Javascript. Consequently, the registration form used in this website will not store any data.
 
 
