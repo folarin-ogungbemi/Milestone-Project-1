@@ -172,7 +172,7 @@ To start this project, It is recommended to use the [template](https://github.co
             * A mouse right click in this panel area gives us option to create new files and or folders in this repository.
             * On the right-side window next to the left side-bar, we can write our HTML, and CSS code.
             * Finally, the bash terminal for interacting with github is located right below this window.
-        * To have files created in this IDE, the following commands are to be enetered.
+        * To upload changes made in our repository to github in this IDE, the following commands are to be enetered after the $ sign in the bash terminal.
             * To check the status of your repository if any changes have been made.
                  ``` bash
                     git status
