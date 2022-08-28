@@ -125,7 +125,7 @@ header{
 /* NEWS HIGHLIGHT */
 
 #news-head{
-    min-height: 80vh;
+    min-height: 60vh;
 }
 
 #news-head >h2{
@@ -136,11 +136,12 @@ header{
 
 .news-highlight{
     width: 90%;
+    margin: 10rem auto 0;
     display: flex;
     text-align: center;
     justify-content: center;
-    margin: auto;
     flex-wrap: wrap;
+    gap: 2rem;
 }
 
 .card{
@@ -149,18 +150,19 @@ header{
     border-radius: 10px;
     min-height: 40vh;
     flex: 1 1 30rem;
-    margin: 10rem 5rem;
     color: white;
     display: flex;
     flex-direction: column;
     text-align: center;
     justify-content: center;
     padding: 1rem;
-    gap: 2rem;
 }
 
 /* ABOUT SECTION */
 
+#about{
+    padding-top: 12rem;
+}
 .about-wrap{
     min-height: 50vh;
     display: flex;
