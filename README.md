@@ -14,7 +14,7 @@ Gosip, coined from the word *gossip*, is a blog post intended to provide trendin
 
 # User Experience Design
 
-## User Guide
+## User's Target
 
 * First time User goals
     * As a first time user, It is important for me to understand the main purpose of the site i am visiting and learn about the organization.
