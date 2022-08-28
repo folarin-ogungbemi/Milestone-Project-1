@@ -139,6 +139,12 @@ The following features were not implemented as at the time of creation of this w
 
 ---
 
+# Testing
+
+## Test Strategy
+
+---
+
 # Deployment
 
 ## Project Creation
