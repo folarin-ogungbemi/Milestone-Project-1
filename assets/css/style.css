@@ -293,8 +293,11 @@ form{
     margin: 1rem 0;
 }
 
-#fname, #lname, #phone, #email{
+#fname, #lname, #phone, #email, textarea{
     margin: 1rem 0;
+    border: 1px solid  #022138;
+    background-color: transparent;
+    padding: 0.5rem;
 }
 
 .frequency{
