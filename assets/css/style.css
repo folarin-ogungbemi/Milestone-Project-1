@@ -262,10 +262,9 @@ hr{
     align-items: center;
     justify-content: center;
     width: 70rem;
-    background-color: rgb(2, 33, 56, 0.2);
+    background-color: rgba(255, 255, 255, 0.5);
     margin: 5rem 0;
     padding: 1rem;
-    color: #022138;
 }
 
 .form-data h2{
@@ -310,6 +309,7 @@ input[type="submit"]:hover{
 .privacy-policy{
     width: 90%;
     margin-bottom: 2rem;
+    font-weight: 600;
 }
 
 /* NEWS */
