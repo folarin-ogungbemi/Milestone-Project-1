@@ -364,6 +364,10 @@ input[type="submit"]:hover{
     gap: 2rem;
     flex-wrap: wrap;
 }
+#education a:hover{
+    color: #022138;
+}
+
 #story{
     padding:1rem 0 ;
 }
