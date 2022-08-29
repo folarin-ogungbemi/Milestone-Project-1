@@ -105,6 +105,7 @@ header{
     width: 50vw;
     height: 100%;
     object-fit:contain;
+    background-color: #fffaf6;
 }
 
 .hero-text{
@@ -150,7 +151,7 @@ header{
     border-radius: 10px;
     min-height: 40vh;
     flex: 1 1 30rem;
-    color: white;
+    color: #fffaf6;
     display: flex;
     flex-direction: column;
     text-align: center;
