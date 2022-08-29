@@ -340,6 +340,8 @@ input[type="submit"]:hover{
 }
 
 .n-body{
+    width:90%;
+    margin: auto;
     display: flex;
     flex-direction: column;
     gap: 1rem;
@@ -360,8 +362,14 @@ input[type="submit"]:hover{
 .body{
     display: flex;
     gap: 2rem;
-    padding: 0 2rem;
     flex-wrap: wrap;
+}
+#story{
+    padding:1rem 0 ;
+}
+
+#story h3{
+    padding-bottom:0.5rem ;
 }
 
 #sports, #entertainment{
