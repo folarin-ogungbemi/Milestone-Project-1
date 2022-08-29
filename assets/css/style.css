@@ -263,6 +263,7 @@ hr{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    color: #022138;
 }
 
 .form-data{
@@ -298,6 +299,7 @@ form{
     border: 1px solid  #022138;
     background-color: transparent;
     padding: 0.5rem;
+    color: #022138;
 }
 
 .frequency{
