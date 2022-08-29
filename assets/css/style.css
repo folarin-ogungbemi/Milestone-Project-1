@@ -253,7 +253,7 @@ hr{
 
 #form{
     min-height: 150vh;
-    background-image: url(../images/listen\(compressed\).jpg);
+    background-image: linear-gradient(rgb(255, 250, 246), transparent),url(../images/listen\(compressed\).jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -317,7 +317,10 @@ input[type="submit"]:hover{
 .privacy-policy{
     width: 90%;
     margin-bottom: 2rem;
-    font-weight: 600;
+}
+
+.privacy-policy h2{
+    color: #022138;
 }
 
 /* NEWS */
