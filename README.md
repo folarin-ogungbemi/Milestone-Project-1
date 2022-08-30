@@ -83,10 +83,10 @@ The text types of the website will be as follows.
 # Features
 
 ## Existing Features
-* The website will link to external socila websites like facebook, instagram, youtube, and twitter.
-* The website will have embedded in it an api to google map.
-* The wwbsite will have a Registration form for the the purpose of taking user's data for the provision of necessary information.
-* The website will be responsive both on mobile, tablet, and desktop with various ranges. 
+* The website will link to external social websites like facebook, instagram, youtube, and twitter in order for the user to keep up-to-date with news pertaining to the organization.
+* The website will have embedded in it an api to google map. This enables users to be able to check the distace of their location to that of the organization#s physical location.
+* The website will have a Registration form for the the purpose of taking user's data and provide users necessary information and newsletter as at when due.
+* The website will be responsive both on mobile, tablet, and desktop with various ranges. This makes the website mobile friendly as well as usable on desktop. 
 
 ## Feeatures to be implemented
 
