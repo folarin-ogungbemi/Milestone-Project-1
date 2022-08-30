@@ -293,6 +293,9 @@ form{
     flex-direction: column;
 }
 
+form span{
+    color: #f02c2c;
+}
 .main-form, .name, .contact{
     display: flex;
     flex-direction: column;
