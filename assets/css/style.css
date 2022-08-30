@@ -405,11 +405,11 @@ input[type="submit"]:hover {
     color: #022138;
 }
 
-#story {
+.story {
     padding: 1rem 0;
 }
 
-#story h3 {
+.story h3 {
     padding-bottom: 0.5rem;
 }
 
