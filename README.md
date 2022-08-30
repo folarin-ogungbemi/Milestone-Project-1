@@ -182,15 +182,28 @@ To start this project, It is recommended to use the [template](https://github.co
 ---
 
 # Credits
-
-## Code
     
 ## Content
 
+* The contents in the news article were written by me and Abegunde Adebola 
+
 ## Media
+
+* Thanks to Pexels and the following people who made their pictures available for use:
+   
+    * [Pixabay](https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "visit website")
+    * [Andrea Piacquadio](https://images.pexels.com/photos/3761519/pexels-photo-3761519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "Visit website")
+    * [Thibault trillet](https://images.pexels.com/photos/167491/pexels-photo-167491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "visit website")
+    * [RODNAE Production](https://images.pexels.com/photos/6936406/pexels-photo-6936406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "visit website")
+    * [Emily Ranquist](https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "Visit website")
 
 ## Acknowledgement 
 
+My sincere appreciation goes to :
+* To my able mentor, who made time from his rather tight schedule to provide me with relevant tips and information to build this website.
+* To the aug-2022-disdcc team who gave time to watch me present my project and giving their honest review and tips. good to have you team.
+* To my colleague and friend, kruppa Sören, who gave his honest review on the website and bringing my awareness to overlooked parts of the website. thank you
+* And finally to my partner, Abegunde adebola, who also contributed time to writing the articles used in this project. Thank you love
 
 
 
