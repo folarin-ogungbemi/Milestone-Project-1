@@ -356,7 +356,7 @@ input[type="submit"]:hover {
     color: #022138;
 }
 
-/* NEWS */
+/* NEWS PAGE*/
 
 #education {
     min-height: 100vh;
@@ -428,6 +428,8 @@ input[type="submit"]:hover {
 
 
 /* MEDIA QUERIES */
+
+/* for medium screens from 950 pixels wide and below */
 
 @media screen and (max-width:950px) {
 
@@ -508,7 +510,12 @@ input[type="submit"]:hover {
     }
 }
 
+/* for medium screens from 950 pixels wide and below */
+
 @media screen and (max-width: 510px) {
+
+    /* HEADER SECTION */
+
     #nav-bar {
         display: flex;
         justify-content: center;
