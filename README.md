@@ -21,7 +21,7 @@ GOSIP, coined from the word *gossip*, is a blog post intended to provide trendin
 ## User's Target
 
 * First time User goals
-    * As a first time user, It is important for me to understand the main purpose of the site i am visiting and learn about the organization.
+    * As a first time user, It is important for me to understand the speciality of the site i am visiting and learn about the organization.
     * As a first time user, I want to have the comfort of reading the news on small screen devices as well as on larger screens as need arises.
     * As a first time user, navigation through aspects of the website should be easy and lead to exactly where i need to go.
     * As a first time user, keeping up to date via social media platforms and necessary links is vital.
@@ -63,33 +63,38 @@ The website will overall use three major colors as they are significant to the v
 The text types of the website will be as follows.
 
 * Oswald : For Headers.
-* Lato : For normal text contents.
-* Crimson pro : For the news articles.
+* Roboto : For normal text contents.
 
-### Imagery
+### graphics
 
-* The beautifying images used for the website depicts the purpose and goals of the website.
-* Illustrative pictures or videos that may be used adds information to the news articles.
+* The images and icons used for the website depicts the purpose and goals of the website.
+
+### Wireframe
+
+* ![An illustrative design of the website](assets/images/Gosip%20wireframe.jpg)
 
 ## Limitations
 
-* The website functionality does not include any imperative programming languages such as Javascript. Consequently, the registration form used in this website will not store any data.
-* The responsiveness of the website to screens is pegged at a minimum range of 320px.  
+* The website's functionality does not include any imperative programming languages such as Javascript. Consequently, the registration form used in this website will not store any data.
+* The responsiveness of the website to screens is pegged at 320px width. 
 
 ---
 
 # Features
 
 ## Existing Features
-
-* Registration form : Embedded in the website is a form to be filled by users who wants to receive newsletters pertaining to the goals of the organization. 
+* The website will link to external socila websites like facebook, instagram, youtube, and twitter.
+* The website will have embedded in it an api to google map.
+* The wwbsite will have a Registration form for the the purpose of taking user's data for the provision of necessary information.
+* The website will be responsive both on mobile, tablet, and desktop with various ranges. 
 
 ## Feeatures to be implemented
 
 The following features were not implemented as at the time of creation of this website due to limitations in technological skills :
 
-*  For easier search and navigation through the website, the website can include a search bar.
-
+* For easier search and navigation through the website, the website can include a search bar.
+* Include a comment section for the users to create interaction amongst users on the website.
+* Include a chat-bot for effeciency in responding to user's needs.
 
 ---
 
