@@ -510,7 +510,7 @@ input[type="submit"]:hover {
     }
 }
 
-/* for medium screens from 950 pixels wide and below */
+/* for medium screens from 510 pixels wide and below */
 
 @media screen and (max-width: 510px) {
 
