@@ -131,7 +131,9 @@ The following features were not implemented as at the time of creation of this w
 
 # Testing
 
-## Test Strategy
+## Test precedure
+
+The following steps were carried out in testing the validity of the source code and the the website:
 
 ---
 
