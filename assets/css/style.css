@@ -43,6 +43,10 @@ a:hover{
     color: #fffaf6;
 }
 
+.active{
+    color: #fffaf6;
+}
+
 li{
     list-style: none;
     text-transform: capitalize;
