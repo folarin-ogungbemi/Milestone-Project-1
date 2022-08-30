@@ -203,7 +203,7 @@ My sincere appreciation goes to :
 * To my able mentor, who made time from his rather tight schedule to provide me with relevant tips and information to build this website.
 * To the aug-2022-disdcc team who gave time to watch me present my project and giving their honest review and tips. good to have you team.
 * To my colleague and friend, kruppa Sören, who gave his honest review on the website and bringing my awareness to overlooked parts of the website. thank you
-* And finally to my partner, Abegunde adebola, who also contributed time to writing the articles used in this project. Thank you love
+* And finally to my partner, Mo, who also contributed time to writing the articles used in this project. Thank you love
 
 
 
