@@ -55,6 +55,7 @@ body{
     font-size: calc(var(--text1)*1.2);
     background-color: #fffaf6;
     font-family: 'Roboto', sans-serif;
+    color: #022138;
     width: 100%;
     max-width: 100vw;
 }
