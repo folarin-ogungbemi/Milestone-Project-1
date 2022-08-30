@@ -4,9 +4,9 @@
 
 This website was created for the purpose of completing my first milestone project as a [Code Institute](https://codeinstitute.net "Link to code institute") student of a full-stack Software Developer course. This Project demonstrates the knowledge acquired afer the completion of the modules required to build the website. Technologies used for the Architectural design and structure are majorly based on HTML, CSS and UX Design modules. See below, in technology section of this documentation, a detailed list of technologies used for the completion of the project.
 
-[Click to view project website](https://folarin-ogungbemi.github.io/gosip/ "link to live website")
+[Click to view project website](https://folarin-ogungbemi.github.io/Milestone-Project-1/ "link to live website")
 
-# [GOSIP](https://folarin-ogungbemi.github.io/gosip/ "link to live website")
+# [GOSIP](https://folarin-ogungbemi.github.io/Milestone-Project-1/ "link to live website")
 
 ## Preview
 
@@ -154,7 +154,7 @@ To start this project, It is recommended to use the [template](https://github.co
         * Visit the [Gitpod](https://www.gitpod.io "Click to visit gitpod") webiste and Login your details.
         * there after navigate back to Github and continue the steps after login.
     1. If yes ?
-        * Navigate to the green button ["Clipboard"](https://github.com/folarin-ogungbemi/Milestone-project1 "click on this link to view clipboard") and click on it.
+        * Navigate to the green button ["Clipboard"](https://folarin-ogungbemi.github.io/Milestone-Project-1/ "click on this link to view clipboard") and click on it.
         * The creation of an environment might take a while. wait for gitpod to set up your environment.
 1. Now we should have the [IDE](https://folarinogun-milestonepr-kf64x2mo04v.ws-eu63.gitpod.io/ "click to view interface") created.
     1. Here we have Visual Studio code as IDE.
