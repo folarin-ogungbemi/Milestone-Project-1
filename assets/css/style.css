@@ -7,6 +7,50 @@
     box-sizing: border-box;
 }
 
+/* Table of content
+
+1. General style
+
+2. INDEX PAGE
+    2.1 Navbar header
+    2.2 Hero section
+    2.3 News highlight section
+    2.4 About section
+    2.5 Contact footer
+
+3.  SIGNUP PAGE
+    3.1 form section
+        3.1.1 Privacy policy
+
+4. NEWS PAGE
+    4.1 News general
+    4.2 Education section
+    4.3 Sports section
+    4.4 Entertainment section
+
+5.  MEDIA QUERIES @ 950 pixels
+    5.1 General style
+    5.2 INDEX PAGE
+        5.2.1 Navbar header
+        5.2.2 Hero section
+        5.2.3 News highlight section
+        5.2.4 contact footer 
+    5.3 FORM PAGE
+        5.3.1 Form section
+
+6.  MEDIA QUERIES @ 510 pixels
+    6.1 INDEX PAGE
+        6.1.1 Navbar header
+    6.2 FORM PAGE
+        6.2.1 Form section 
+
+*/
+
+
+/*  ***********
+    General style
+    *********** */
+
 html {
     font-size: 62.5%;
     --header1: calc(2.8rem + 1vw);
@@ -68,7 +112,13 @@ a {
     color: #f02c2c;
 }
 
-/* HEADER SECTION */
+/*  ***********
+    INDEX PAGE
+    *********** */
+
+/*  ***********
+    Navbar header
+    *********** */
 
 header {
     background-color: rgb(2, 32, 54, 0.9);
@@ -100,7 +150,10 @@ header {
     margin: auto;
 }
 
-/* HERO SECTION */
+/*  ***********
+    Hero section
+    *********** */
+
 #hero {
     padding-top: 12rem;
     min-height: 100%;
@@ -134,7 +187,9 @@ header {
     color: #022138;
 }
 
-/* NEWS HIGHLIGHT */
+/*  **********************
+    News highlight section
+    ********************** */
 
 #news-head {
     min-height: 60vh;
@@ -170,7 +225,9 @@ header {
     padding: 1rem;
 }
 
-/* ABOUT SECTION */
+/*  *************
+    About section
+    *********** */
 
 #about {
     padding-top: 12rem;
@@ -226,7 +283,9 @@ header {
 }
 
 
-/* CONTACT SECTION */
+/*  **************
+    Contact footer
+    *********** */
 
 footer {
     background-color: #022138;
@@ -264,7 +323,13 @@ hr {
     border-bottom: 1px solid #fffaf6;
 }
 
-/* SIGN UP PAGE */
+/*  ***********
+    SIGNUP PAGE
+    *********** */
+
+/*  **************
+    form section
+    *********** */
 
 #form {
     min-height: 150vh;
@@ -344,6 +409,9 @@ input[type="submit"]:hover {
     background-color: #022138;
 }
 
+
+/* Privacy policy */
+
 .privacy-policy {
     width: 90%;
     margin-bottom: 2rem;
@@ -356,12 +424,13 @@ input[type="submit"]:hover {
     color: #022138;
 }
 
-/* NEWS PAGE*/
+/*  ***********
+    NEWS PAGE
+    *********** */
 
-#education {
-    min-height: 100vh;
-    padding-top: 12rem;
-}
+/*  **************
+    News general
+    *********** */
 
 .n-head {
     background-repeat: no-repeat;
@@ -384,25 +453,17 @@ input[type="submit"]:hover {
     padding: 1rem;
 }
 
-.n-head h2 {
-    font-family: 'Oswald', sans-serif;
-    color: #022138;
-    font-size: var(--header1);
-    letter-spacing: 1rem;
-}
-
-.education-head {
-    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/education\(compressed\).jpg);
-}
-
 .body {
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
 }
 
-#education a:hover {
+.n-head h2 {
+    font-family: 'Oswald', sans-serif;
     color: #022138;
+    font-size: var(--header1);
+    letter-spacing: 1rem;
 }
 
 .story {
@@ -413,6 +474,29 @@ input[type="submit"]:hover {
     padding-bottom: 0.5rem;
 }
 
+/*  **************
+    Education section
+    *********** */
+
+#education {
+    min-height: 100vh;
+    padding-top: 12rem;
+}
+
+.education-head {
+    background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/education\(compressed\).jpg);
+}
+
+
+
+#education a:hover {
+    color: #022138;
+}
+
+/*  **************
+    Sports section
+    *********** */
+
 #sports,
 #entertainment {
     min-height: 100vh;
@@ -422,20 +506,36 @@ input[type="submit"]:hover {
     background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/sports\(compressed\).jpg);
 }
 
+/*  **************
+    Entertainment section
+    *********** */
+
 .entertainment-head {
     background-image: linear-gradient(rgb(240, 44, 44, 0.5), transparent), url(../images/stage\(compressed\).jpeg);
 }
 
 
-/* MEDIA QUERIES */
+/*  ***********
+    MEDIA QUERIES
+    *********** */
 
 /* for medium screens from 950 pixels wide and below */
 
 @media screen and (max-width:950px) {
 
+    /*  ***********
+    General syle
+    *********** */
+
     body {
         font-size: calc(var(--text1)*1.5);
     }
+
+    /*  ***********
+    INDEX PAGE
+    *********** */
+
+    /* Navbar header */
 
     #nav-bar {
         flex-wrap: wrap;
@@ -450,7 +550,7 @@ input[type="submit"]:hover {
         flex: 2 1 60rem;
     }
 
-    /* HERO SECTION */
+    /* Hero section */
 
     .hero-body {
         flex-wrap: wrap;
@@ -466,12 +566,12 @@ input[type="submit"]:hover {
         padding: 10rem 0;
     }
 
-    /* NEWS HIGHLIGHT */
+    /* News highlight section */
     .card {
         margin: 5rem;
     }
 
-    /* CONTACT SECTION */
+    /* Contact footer */
     #contact {
         display: flex;
         flex-direction: column;
@@ -499,8 +599,11 @@ input[type="submit"]:hover {
         padding: 1rem 0;
     }
 
-    /* FORM */
+    /*  ***********
+    FORM PAGE
+    *********** */
 
+    /* form section */
     .form-data {
         width: 50rem;
     }
@@ -514,7 +617,11 @@ input[type="submit"]:hover {
 
 @media screen and (max-width: 510px) {
 
-    /* HEADER SECTION */
+    /*  ***********
+    INDEX PAGE
+    *********** */
+
+    /* Navbar header */
 
     #nav-bar {
         display: flex;
@@ -526,7 +633,11 @@ input[type="submit"]:hover {
         padding: 0 0.3rem;
     }
 
-    /* FORM */
+    /*  ***********
+    FORM PAGE
+    *********** */
+
+    /* form section */
 
     .form-data {
         width: 32rem;
