@@ -236,7 +236,7 @@ To start this project, It is recommended to use the [template](https://github.co
 # Credits
 
 ## Code
-* The turorial from code institute was the most helpful link in writing the codes of this website.
+* The turorial from [Code Institute](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum "Visit Code Institute") was the most helpful link in writing the codes of this website.
 * Helpful ideas from  [Kevin Powel](https://youtu.be/iHEkRIF7zxI "Visit Kevin Powel youtube video") to setup *table of content*, creating variables, and using ":is() in CSS
 * Building of Readme file using technique from [Daisy McG](https://github.com/Daisy-McG/MilestoneProject-1 "Visit Daisy McG Github")
     
