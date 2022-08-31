@@ -154,9 +154,9 @@ The following steps were carried out in testing the validity of the source code 
 | W3C CSS               | Errors            | [x]              | No Errors
 | W3C HTML              | Errors            | [x]              | No Errors
 | Images                | Pixelated         | [x]              |
-| External links        | functionality     | [x]              | All social links and form submittion.
-| Media queries         | Page integtrity   | [x]              | Pages start to lose integrity from screens below 320px
-| Content               | readability       | [x]              | 
+| External links        | functionality     | [x]              | All social links and form submit in a different page.
+| Media queries         | Page integtrity   | [x]              | Pages start to lose integrity from screens below 320px wide
+| Content               | readability       | [x]              | good
 | Navigation            | navigatable       | [x]              | All checked
 
 * Deployment of code
@@ -167,14 +167,20 @@ The following steps were carried out in testing the validity of the source code 
 | Code commenting       | Commented code    | [x]               | No codes commented
 | Internal links        | not broken        | [x]               | Internal links navigate to target
 | Project screenshot    | In README file    | [x]               | 
-| Project features      | screenshots       | []                | Not yet done
-| external code         | included/reference| []                | 
-| Code Organization     | comment sections  | []                |
+| Project features      | screenshots       | [x]               | 
+| external code         | included/reference| [x]               | Helpful ideas credited in credit section
+| Code Organization     | comment sections  | [x]               | give structure to each sectional line of code and table of content in CSS
 | CSS file              | linked to HTML    | [x]               |
 | Coding structure      | standard          | [x]               | Use of Document format (Shift+Alt+F)
 | file name             | descriptive       | [x]               | Name as in website. index page(True)
 
-
+All pages of the codes were validated and checked to standard using [W3C HTML validator](https://validator.w3.org/nu/#textarea "Visit WC3 website").
+* Error found on the use of acronym was corrected and changed to abbr instead. acronym tag appear to be obsolete.
+* Error found on multiple use of same name id selector was corrected to a class attribute.
+* Error found on iframe text between tags were removed as they are not required. 
+* Error found on iframe width and height sizing with the use measurements were removed.
+All pages of the codes were validated and checked to standard using [W3C CSS validator](https://jigsaw.w3.org/css-validator/validator "Visit WC3 website").
+* Error found on typo-error of selector keyword was corrected.
 ---
 
 # Deployment
