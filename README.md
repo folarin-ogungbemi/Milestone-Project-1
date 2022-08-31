@@ -131,9 +131,46 @@ The following features were not implemented as at the time of creation of this w
 
 # Testing
 
-## Test precedure
+## Test procedure
 
-The following steps were carried out in testing the validity of the source code and the the website:
+The following steps were carried out in testing the validity of the source code and the website standard fuctionality:
+
+* General website functionality
+
+| TEST                  | CRITERIA              | RESULT           | COMMENT
+|-----------------------|-----------------------|------------------|-------------------------------
+| Navigation & Layout   | functionality         | [x]              |
+| Visually impaired     | alt text              | [x]              |
+| Information structure | header vs text        | [x]              |
+| Colour contrast       | background vs colour  | [x]              |
+
+* Website code vs standard coding
+
+| TEST                  | CRITERIA          | RESULT           | COMMENT
+|-----------------------|-------------------|------------------|------------------------------
+| W3C CSS               | Errors            | [x]              | No Errors
+| W3C HTML              | Errors            | [x]              | No Errors
+| Images                | Pixelated         | [x]              |
+| External links        | functionality     | [x]              | All social links and form submittion.
+| Media queries         | Page integtrity   | [x]              | Pages start to lose integrity from screens below 320px
+| Content               | readability       | [x]              | 
+| Navigation            | navigatable       | [x]              | All checked
+
+* Deployment of code
+
+| TEST                  | CRITERIA          | RESULT            | COMMENT
+|-----------------------|-------------------|-------------------|----------------------------------------
+| Deployment of code    | Github            | [x]               |
+| Code commenting       | Commented code    | [x]               | No codes commented
+| Internal links        | not broken        | [x]               | Internal links navigate to target
+| Project screenshot    | In README file    | [x]               | 
+| Project features      | screenshots       | []                | Not yet done
+| external code         | included/reference| []                | 
+| Code Organization     | comment sections  | []                |
+| CSS file              | linked to HTML    | [x]               |
+| Coding structure      | standard          | [x]               | Use of Document format (Shift+Alt+F)
+| file name             | descriptive       | [x]               | Name as in website. index page(True)
+
 
 ---
 
