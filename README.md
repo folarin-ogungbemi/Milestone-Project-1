@@ -179,8 +179,12 @@ All pages of the codes were validated and checked to standard using [W3C HTML va
 * Error found on multiple use of same name id selector was corrected to a class attribute.
 * Error found on iframe text between tags were removed as they are not required. 
 * Error found on iframe width and height sizing with the use measurements were removed.
+
 All pages of the codes were validated and checked to standard using [W3C CSS validator](https://jigsaw.w3.org/css-validator/validator "Visit WC3 website").
 * Error found on typo-error of selector keyword was corrected.
+
+Additionally, The website responsiveness and validity was tested on Chrome(default) and Mozilla firefox. No errors were found
+
 ---
 
 # Deployment
