@@ -226,6 +226,10 @@ header {
     padding: 1rem;
 }
 
+.card a{
+    font-size: calc(var(--text1)/1.2);
+}
+
 /*  *************
     About section
     *********** */
