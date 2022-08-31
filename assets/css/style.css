@@ -660,6 +660,18 @@ input[type="submit"]:hover {
     }
 
     /*  ***********
+    NEWS PAGE
+    *********** */
+
+    /*  **************
+    News general
+    *********** */
+
+    .body{
+        line-height: 3rem;
+    }
+
+    /*  ***********
     FORM PAGE
     *********** */
 
