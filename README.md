@@ -85,8 +85,11 @@ The text types of the website will be as follows.
 ## Existing Features
 * The website will link to external social websites like facebook, instagram, youtube, and twitter in order for the user to keep up-to-date with news pertaining to the organization.
 * The website will have embedded in it an api to google map. This enables users to be able to check the distace of their location to that of the organization#s physical location.
+    * ![Google map](assets/images/Google%20map%20API%20feature.png)
 * The website will have a Registration form for the the purpose of taking user's data and provide users necessary information and newsletter as at when due.
+    * ![Registration form](assets/images/form%20feature.png)
 * The website will be responsive both on mobile, tablet, and desktop with various ranges. This makes the website mobile friendly as well as usable on desktop. 
+    * As illustrated in the preview section of this page.
 
 ## Feeatures to be implemented
 
