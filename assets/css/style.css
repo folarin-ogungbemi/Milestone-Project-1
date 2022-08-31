@@ -230,7 +230,7 @@ header {
     padding: 1rem;
 }
 
-.card a{
+.card a {
     font-size: calc(var(--text1)/1.1);
 }
 
@@ -274,7 +274,7 @@ header {
     flex: 2 1 60rem;
 }
 
-.text p{
+.text p {
     line-height: 4rem;
 }
 
@@ -306,9 +306,11 @@ footer {
     width: 100%;
     font-size: calc(var(--text1)/1.1);
 }
-footer h3{
+
+footer h3 {
     font-size: calc(var(--text1)/0.9);
 }
+
 footer iframe {
     width: inherit;
 }
@@ -629,7 +631,7 @@ input[type="submit"]:hover {
     News general
     *********** */
 
-    .body{
+    .body {
         line-height: 4rem;
     }
 
@@ -675,7 +677,7 @@ input[type="submit"]:hover {
     News general
     *********** */
 
-    .body{
+    .body {
         line-height: 3rem;
     }
 
