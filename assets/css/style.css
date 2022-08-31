@@ -468,7 +468,9 @@ input[type="submit"]:hover {
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
-    line-height: 4rem;
+    line-height: 5rem;
+    padding: 1rem 0;
+    font-size: calc(var(--text1)/1);
 }
 
 .n-head h2 {
